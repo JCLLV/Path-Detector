@@ -168,10 +168,8 @@ El video procesado incluye:
 
 **Juan Carlos**
 Desarrollo de sistemas de visión computacional y análisis de trayectoria.
-📧 *(Agrega tu correo o web aquí)*
+📧 jcllanosv007@gmail.com
 
----
 
-¿Deseas que te genere el archivo `README.txt` o `README.md` listo para subir a tu repositorio (con este contenido)?
-Puedo hacerlo y darte el enlace directo de descarga.
+
 
